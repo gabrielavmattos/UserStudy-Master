@@ -150,7 +150,7 @@
             android:layout_below="@+id/control2"
             android:layout_alignLeft="@+id/control2"
             android:textSize="12sp" />
-        
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

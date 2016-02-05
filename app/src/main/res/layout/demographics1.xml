@@ -55,7 +55,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginLeft="4dp"
             android:layout_marginRight="4dp" />
-        
+
         <SeekBar
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -389,6 +389,6 @@
             android:layout_height="match_parent"
             android:layout_below="@+id/buttonDemoNext"
             android:layout_marginTop="50dp"/>
-        
+
     </RelativeLayout>
 </ScrollView>
